@@ -1,4 +1,5 @@
 <h1 align="center">Tech Haven</h1>
+<p>an extraordinary e-commerce webshop with an admin dashboard and CMS using Next.js 14, Stripe for payment processing, TypeScript for type safety, and Payload CMS is a potent blend of cutting-edge technologies. Leveraging Next.js 14's capabilities such as server-side rendering and static site generation ensures high performance and SEO-friendliness. Integration with Stripe provides secure and flexible payment processing options, while TypeScript enhances code quality and developer productivity. Payload CMS simplifies content management with its intuitive interface and customizable API. Together, these tools enable the creation of a feature-rich, scalable e-commerce platform with a seamless user experience and efficient management capabilities.</p>
 
 # Payload E-Commerce Template
 
