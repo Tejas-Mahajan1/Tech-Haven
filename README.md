@@ -1,4 +1,4 @@
-# <center>Tech Haven</center>
+<h3 align="center">Tech Haven</h3>
 
 # Payload E-Commerce Template
 
